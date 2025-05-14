@@ -17,10 +17,10 @@ Tenho 20 anos e sou completamente apaixonado por tecnologia, programação e tud
   - HTML5
   - CSS3
 
-## 📈 Contribuições no GitHub
+## 📈 Estatísticas do GitHub
 
-- **Commits:** [Veja aqui](https://github.com/Marcux-yz?tab=overview&from=2025-01-01&to=2025-12-31)
-- **Pull Requests:** [Veja aqui](https://github.com/Marcux-yz?tab=overview&from=2025-01-01&to=2025-12-31)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Marcux-yz&show_icons=true&theme=tokyonight&count_private=true)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcux-yz&layout=compact&theme=tokyonight)
 
 ## 📫 Contato
 
