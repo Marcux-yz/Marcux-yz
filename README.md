@@ -1,6 +1,6 @@
 # 👨‍💻 Marcus Vinicius
 
-![Computador GIF](https://media.giphy.com/media/IeRdg7VjDbkzC/giphy.gif)
+![Computador GIF](https://i.gifer.com/Js6x.gif)
 
 ## 🧠 Sobre Mim
 
