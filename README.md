@@ -22,8 +22,6 @@ Tenho 20 anos e sou completamente apaixonado por tecnologia, programação e tud
 - **Commits:** [Veja aqui](https://github.com/Marcux-yz?tab=overview&from=2025-01-01&to=2025-12-31)
 - **Pull Requests:** [Veja aqui](https://github.com/Marcux-yz?tab=overview&from=2025-01-01&to=2025-12-31)
 
-> *Os números acima são atualizados automaticamente com base nas suas atividades no GitHub.*
-
 ## 📫 Contato
 
 - [Instagram](https://www.instagram.com/marcusviniciusllsousa)
